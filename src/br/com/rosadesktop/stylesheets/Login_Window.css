@@ -1,0 +1,39 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 21/06/2015, 12:11:27
+    Author     : Claudio
+*/
+
+.mainPane {
+    -fx-background-color: #909090;
+}
+
+.loginPane {
+    -fx-background-color: #656565;
+    -fx-border-radius: 50px;
+}
+
+.btLogin:hover {
+    -fx-background-color: #808080;
+    -fx-cursor: hand;
+}
+
+.btLogin {
+    -fx-text-fill: #ccccff; //#666666
+}
+
+.lbUser {
+    -fx-text-fill: #ccccff;
+}
+
+.lbPass {
+    -fx-text-fill: #ccccff;
+}
+
+.lbRosas {
+    -fx-text-fill: #ccccff;
+}
